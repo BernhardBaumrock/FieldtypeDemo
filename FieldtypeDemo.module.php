@@ -1,4 +1,7 @@
 <?php namespace ProcessWire;
+
+// see https://github.com/somatonic/FieldtypeRangeSlider/blob/master/FieldtypeRangeSlider.module
+
 class FieldtypeDemo extends Fieldtype {
   public static function getModuleInfo() {
     return array(
